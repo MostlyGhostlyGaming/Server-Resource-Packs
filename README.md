@@ -12,7 +12,7 @@ These Resource packs belong souly to their respective owners
 • Give credit where due
 
 
-#Not Allowed:
+# Not Allowed:
 • Share pack with large or medium communities
 
 • Claim you made the pack
